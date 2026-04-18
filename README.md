@@ -1,4 +1,4 @@
-# Social Media System
+# Social Media Platform
 
 A full-stack social media application platform built with a Node.js/Express backend and a vanilla HTML/CSS/JS frontend. This project includes user authentication, profiles, and feeds.
 
